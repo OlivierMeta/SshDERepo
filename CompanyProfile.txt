@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-DATA ELECTRIK (Pty) Ltd is a multi-disciplinary engineering business company created in 2020 
-=======
-DATA ELECTRIK (Pty) Ltd is a multi-disciplinary engineering business company was created in 2020
->>>>>>> 18c9a5e9635904ecc93d8c4f3f18c6fda67aa3b6
+
 with capacity to execute engineering works and building project, 
+with capacity to execute engineering works and construction project, 
 timeously and according to budget. Founded by Olivier Meta, a qualified electrical engineer, 
 our markets range from private to corporate as well as to government departments.
